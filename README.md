@@ -14,35 +14,35 @@
 
 - 📫 How to reach me <a href="https://mail.google.com/mail/?view=cm&fs=1&to=abdullahahmedhoussin@gmail.com" target="_blank" title="Gmail"><code>E-mail</code></a>
 
-- 📄 Know about my experiences in <a href="https://drive.google.com/file/d/1EWtxq5bE3Y5eGVqPF9oOGQvrGNsRb9FZ/view?usp=sharing" rel="nofollow" target="_blank"><code>CV</code></a>
+<!-- 📄 Know about my experiences in <a href="" rel="nofollow" target="_blank"><code>CV</code></a>-->
 
 - ⚡ Fun fact **I think I'm curious.**
 
-<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">📩 Connect with me</h2><a id="user-content--connect-with-me" class="anchor" aria-label="Permalink: 📩 Connect with me" href="#-connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<!-- <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">📩 Connect with me</h2><a id="user-content--connect-with-me" class="anchor" aria-label="Permalink: 📩 Connect with me" href="#-connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <p align="center" dir="auto">
 <a href="https://linktr.ee/abdul1ahhussain" title="Linktree" onclick="window.open('https://linktr.ee/abdul1ahhussain', '_blank'); return false;">
     <img src="https://img.shields.io/badge/Linktree-darkgreen.svg?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree" style="max-width: 100%; height: auto;"></a>
   
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=abdullahahmedhoussin@gmail.com" title="Gmail" target="_blank">
+<a href="" title="Gmail" target="_blank">
     <img src=""
         alt="Gmail"
         style="max-width: 100%; height: auto;"></a>
 
-<a href="https://www.linkedin.com/in/abdullah-ahmed-houssin/" title="LinkedIn" target="_blank" rel="noopener noreferrer">
+<a href="" title="LinkedIn" target="_blank" rel="noopener noreferrer">
     <img src="https://camo.githubusercontent.com/0c59c81be6c6e981fbad69ea742692368b3fdc1018090a34cb7764dfea5a1a91/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"
         alt="LinkedIn"
         data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"
         style="max-width: 100%;"></a>
 
 
-<a href="https://x.com/AbdullahAH58517" target="_blank" title="Twitter (X)" rel="noopener noreferrer">
+<a href="" target="_blank" title="Twitter (X)" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Twitter%20(X)-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" 
          alt="Twitter (X)" 
          style="max-width: 100%; height: auto;"></a>
 
 
-<a href="https://www.facebook.com/share/15Y1o5PsGQ/" target="_blank" title="Facebook" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook" style="max-width: 100%;"></a>
+<a href="" target="_blank" title="Facebook" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook" style="max-width: 100%;"></a> -->
 
 </p>
 <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">🛠 Languages and Tools</h2><a id="user-content--languages-and-tools" class="anchor" aria-label="Permalink: 🛠 Languages and Tools" href="#-languages-and-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
